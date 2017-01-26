@@ -1,0 +1,36 @@
+body {
+  background-color:#75BACB;
+  color:black;
+  padding-top: 60px;
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  opacity:0.7;
+  background-repeat: no repeat;
+  color: white;
+  background: white;
+  height:100vh;
+}
+
+.social {
+font-size:40px;
+}
+
+p1 {
+ font-size:20px;
+ border-width:0px;
+}
+
+.hovereffect {
+width:100%;
+height:40%;
+float:left;
+overflow:hidden;
+position:relative;
+text-align:center;
+cursor:default;
+}
+
+
+
